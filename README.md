@@ -1,2 +1,1 @@
-del1
-====
+Comparison test
